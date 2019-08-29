@@ -15,3 +15,5 @@ function produceTipCalculator(tipPercent) {
     return tipPercent * fare;
   }
 }
+
+function 
